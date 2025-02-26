@@ -1,0 +1,11 @@
+{
+  "name": "poc-github-packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "0"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
